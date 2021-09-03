@@ -1,1 +1,1 @@
-# fruit-collector-2
+# fruit-collector
